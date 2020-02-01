@@ -1,8 +1,14 @@
-One store of a local chain, "Many Overzealous Videos Ignite & Entertain" (MOVIE), wishes to automate the process of tracking movies.  This task is simplified by the fact that MOVIE has only three types of movies/videos (only DVD media currently) — comedy, drama, and classics — each sorted differently as described below.
+# Movie-Rental-System
+A local movie rental store wishes to automate their inventory tracking system.
+
+Description
+A local movie rental store wishes to automate their inventory tracking system. Currently there are three types of movies/videos (in DVD media) to be tracked:
+
+comedy, drama, and classics — each sorted differently as described below.
 
  
 
-MOVIE wishes to be able to allow customers to borrow and return items, and to display the contents of the business (all three categories) and its customers' history of rentals at any time. For the business contents, movies are displayed by category, sorted within the category. Output must be formatted for easy reading with data in columns. For the customer history, movies that have been or are borrowed and movies returned are displayed in the order of the occurrence.
+The rental store wishes to be able to allow customers to borrow and return items, and to display the contents of the business (all three categories) and its customers' history of rentals at any time. For the business contents, movies are displayed by category, sorted within the category. Output must be formatted for easy reading with data in columns. For the customer history, movies that have been or are borrowed and movies returned are displayed in the order of the occurrence.
 
  
 
