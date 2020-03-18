@@ -1,5 +1,5 @@
 # Movie-Rental-System
-A local movie rental store wishes to automate their inventory tracking system.
+Inventory tracking system automation
 
 Description
 A local movie rental store wishes to automate their inventory tracking system. Currently there are three types of movies/videos (in DVD media) to be tracked:
